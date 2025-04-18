@@ -35,4 +35,15 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+android/
+ios/
+
+# Expo
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
 app-example
