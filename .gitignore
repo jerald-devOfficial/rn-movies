@@ -47,3 +47,5 @@ ios/
 *.orig.*
 
 app-example
+
+.env
